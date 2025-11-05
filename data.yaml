@@ -1,0 +1,5 @@
+train: \Users\z00543ct\Desktop\Annotations.v5i.yolov8\train\images
+val: \Users\z00543ct\Desktop\Annotations.v5i.yolov8\valid\images
+test: \Users\z00543ct\Desktop\Annotations.v5i.yolov8\test\images
+nc: 1 # number of classes
+names: ['helmet']
